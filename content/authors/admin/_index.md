@@ -1,17 +1,17 @@
 ---
 # Display name
-title: 吳健雄
+title: Dominic Santschi
 
 # Name pronunciation (optional)
-name_pronunciation: Chien Shiung Wu
+# name_pronunciation: Chien Shiung Wu
 
 # Full name (for SEO)
-first_name: Dom
-last_name: Domingo
+first_name: Dominic
+last_name: Santschi
 
-# Status emoji
-status:
-  icon: ☕️
+# # Status emoji
+# status:
+#   icon: ☕️
 
 # Is this the primary user of the site?
 superuser: true
@@ -20,64 +20,63 @@ superuser: true
 highlight_name: true
 
 # Role/position/tagline
-role: Chief Scientist
+role: Ph.D. Candidate & Research Associate
 
 # Organizations/Affiliations to display in Biography blox
 organizations:
-  - name: OpenAI
-    url: https://openai.com/
+  - name: University of St.Gallen
+    url: https://aca.unisg.ch/
 
 # Social network links
 # Need to use another icon? Simply download the SVG icon to your `assets/media/icons/` folder.
 profiles:
   - icon: at-symbol
-    url: 'mailto:your-email@example.com'
+    url: 'mailto:dominic.santschi@unisg.ch'
     label: E-mail Me
   - icon: brands/x
-    url: https://twitter.com/GetResearchDev
-  - icon: brands/instagram
-    url: https://www.instagram.com/
+    url: https://twitter.com/domsantschi
   - icon: brands/github
-    url: https://github.com/gcushen
+    url: https://github.com/domsantschi
   - icon: brands/linkedin
-    url: https://www.linkedin.com/
-  - icon: academicons/google-scholar
-    url: https://scholar.google.com/
+    url: https://www.linkedin.com/dominicsantschi
+  # - icon: academicons/google-scholar
+  #   url: https://scholar.google.com/
   - icon: academicons/orcid
-    url: https://orcid.org/
+    url: https://orcid.org/0009-0000-0982-5074
 
 interests:
+  - Accounting & Finance
   - Artificial Intelligence
-  - Computational Linguistics
-  - Information Retrieval
+  - Sustainability
+  - Circular Economy
 
 education:
-  - area: PhD Artificial Intelligence
-    institution: Stanford University
+  - area: PhD in Management
+    institution: University of St.Gallen
     date_start: 2016-01-01
     date_end: 2020-12-31
     summary: |
-      Thesis on _Why LLMs are awesome_. Supervised by [Prof Joe Smith](https://example.com). Presented papers at 5 IEEE conferences with the contributions being published in 2 Springer journals.
-    button:
-      text: 'Read Thesis'
-      url: 'https://example.com'
-  - area: MEng Artificial Intelligence
-    institution: Massachusetts Institute of Technology
+      Thesis on applications of AI in management accounting. Supervised by [Prof. Dr. Dennis Fehrenbacher](https://aca.unisg.ch/en/areas/dennis-fehrenbacher/). 
+    # button:
+    #   text: 'Read Thesis'
+    #   url: 'https://example.com'
+  - area: MSc in Climate Change, Management & Finance
+    institution: Imperial College London
     date_start: 2016-01-01
     date_end: 2020-12-31
     summary: |
-      GPA: 3.8/4.0
+      Thesis: ...
 
       Courses included:
       - lorem ipsum dolor sit amet, consectetur adipiscing elit
       - lorem ipsum dolor sit amet, consectetur adipiscing elit
       - lorem ipsum dolor sit amet, consectetur adipiscing elit
-  - area: BSc Artificial Intelligence
-    institution: Massachusetts Institute of Technology
+  - area: BSc in Business Administration (International Management)
+    institution: University of Applied Sciences Northwestern Switzerland
     date_start: 2016-01-01
     date_end: 2020-12-31
     summary: |
-      GPA: 3.4/4.0
+      Thesis: ...
       
       Courses included:
       - lorem ipsum dolor sit amet, consectetur adipiscing elit
