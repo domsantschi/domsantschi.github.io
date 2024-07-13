@@ -2,7 +2,7 @@
 title: "An example journal article"
 authors:
 - admin
-- Dominic Santschi
+- Robert Ford
 author_notes:
 - "Equal contribution"
 - "Equal contribution"
